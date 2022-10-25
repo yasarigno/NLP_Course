@@ -1,4 +1,4 @@
-# Introduction to Natural Language Processing
+# Natural Language Processing via Deep Learning
 This repository contains the course materials for "Introduction to Natural Language Processing" at Galatasaray University
 
 ## Slides
