@@ -58,6 +58,13 @@ Using 300d model instead of 50d gives better result in terms of the accuracy on 
 + 10 more epochs 
 ```
 
+With lemmatization, there is a bigger number of words which are represented in the pretrained model.
+
+```
+Converted 18392 words (1608 misses)
+```
+
+
 We haven't use the callback method yet. But together with the changes above, adding more epoch improved well the model.
 
 | version | Model performance  | comments |
@@ -67,5 +74,23 @@ We haven't use the callback method yet. But together with the changes above, add
 |  v3 |   loss: 0.6292 - acc: 0.7876 - val_loss: 2.1436 - val_acc: 0.4430 | at the 15th epoch |
 |  v4 |   loss: 0.3467 - acc: 0.8859 - val_loss: 2.7714 - val_acc: 0.5624 | at the 25th epoch |
 
+---
+---
+
+**This project is created for the course MATH410 Natural Language Processing with Deep Learning in the Master Program in Data Science at Galatasaray University.** https://ects.gsu.edu.tr/en/program/index/193
+
+This work is supported by SFEIR https://www.sfeir.com/fr/ 
+
+<img src="https://github.com/yasarigno/NLP_DeepLearning_Course/blob/main/files/sfeir.png?raw=true" width=100>
 
 ---
+
+**Credits**
+
+I use the course materials from
+
+https://openclassrooms.com/
+
+https://www.coursera.org
+
+https://web.stanford.edu/class/cs224n/
