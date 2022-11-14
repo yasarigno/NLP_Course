@@ -87,7 +87,7 @@ This work is supported by SFEIR https://www.sfeir.com/fr/
 
 **Credits**
 
-I use the course materials from
+I use course materials from
 
 https://openclassrooms.com/
 
